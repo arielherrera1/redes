@@ -1,6 +1,6 @@
 # Redes
 Apuntes sobre redes con sofware libre
 
-Prof. Raúl Jesús López
+Profesor Herrera 
 
 Buenos Aires, Argentina
